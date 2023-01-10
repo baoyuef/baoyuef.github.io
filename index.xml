@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Baoyue&#39;s Blog</title>
+    <link>https://baoyuef.github.io/</link>
+    <description>Recent content on Baoyue&#39;s Blog</description>
+    <image>
+      <url>https://baoyuef.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://baoyuef.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://baoyuef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive</title>
+      <link>https://baoyuef.github.io/archive/</link>
+      <pubDate>Tue, 27 Dec 2022 20:38:18 +0800</pubDate>
+      
+      <guid>https://baoyuef.github.io/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>路旁的一棵椰子树</title>
+      <link>https://baoyuef.github.io/post/firstblog/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://baoyuef.github.io/post/firstblog/</guid>
+      <description>很少有车辆经过会特别留意路边的一棵椰子树，它在六十迈的车窗里只不过是模糊的形状，被拉长，一闪而过。它像是谁喝完椰子随手一扔，莫名其妙就在水泥地里扎根发芽，没有树和它争夺阳光，枝干便长得歪歪扭扭，为了应付基本的光合作用长了几片叶子，让人看得出来是一棵椰子树就行，一副潦草模样。
+我很喜欢它，甚至想成为它，一棵树独自尽情享受一切免费的事情，阳光，雨水，出生就在水泥地里，不能用“蓬生麻中”来期待我长得比隔壁楼房高，也无需考虑什么时候开花授粉，下一颗椰子种在哪里能繁衍后代，反正无法控制捡到椰子的小孩喝完之后把它丢到哪，一切关于集体里树应该做的都与我无关，我只是一棵长在路边的椰子树。
+我在远处就开始寻找它，注视它，直到它消失在后视镜里。</description>
+    </item>
+    
+  </channel>
+</rss>
