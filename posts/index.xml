@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Baoyue&#39;s Blog</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Baoyue&#39;s Blog</description>
+    <title>Posts on Baoyue&#39;s Blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Baoyue&#39;s Blog</description>
     <image>
       <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Jan 2023 20:40:37 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 20:40:37 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogtest</title>
       <link>http://example.org/posts/blogtest/</link>
@@ -18,15 +18,6 @@
       
       <guid>http://example.org/posts/blogtest/</guid>
       <description>#测试</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>http://example.org/archive/</link>
-      <pubDate>Tue, 27 Dec 2022 20:38:18 +0800</pubDate>
-      
-      <guid>http://example.org/archive/</guid>
-      <description></description>
     </item>
     
   </channel>
