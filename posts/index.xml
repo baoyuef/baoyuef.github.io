@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Baoyue&#39;s Blog</title>
-    <link>https://github.com/baoyuef/baoyuef.github.io.git/posts/</link>
+    <link>http://example.org/posts/</link>
     <description>Recent content in Posts on Baoyue&#39;s Blog</description>
     <image>
-      <url>https://github.com/baoyuef/baoyuef.github.io.git/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://github.com/baoyuef/baoyuef.github.io.git/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Jan 2023 20:40:37 +0800</lastBuildDate><atom:link href="https://github.com/baoyuef/baoyuef.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 20:40:37 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogtest</title>
-      <link>https://github.com/baoyuef/baoyuef.github.io.git/posts/blogtest/</link>
+      <link>http://example.org/posts/blogtest/</link>
       <pubDate>Tue, 10 Jan 2023 20:40:37 +0800</pubDate>
       
-      <guid>https://github.com/baoyuef/baoyuef.github.io.git/posts/blogtest/</guid>
+      <guid>http://example.org/posts/blogtest/</guid>
       <description>#测试</description>
     </item>
     
