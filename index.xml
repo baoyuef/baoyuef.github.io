@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Baoyue&#39;s Blog</title>
-    <link>https://www.baoyuef.cn/</link>
+    <link>https://baoyuef.github.io/</link>
     <description>Recent content on Baoyue&#39;s Blog</description>
     <image>
-      <url>https://www.baoyuef.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.baoyuef.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://baoyuef.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://baoyuef.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Jan 2023 20:40:37 +0800</lastBuildDate><atom:link href="https://www.baoyuef.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 20:40:37 +0800</lastBuildDate><atom:link href="https://baoyuef.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>像新家进门地毯的第一篇博客</title>
-      <link>https://www.baoyuef.cn/posts/blogtest/</link>
+      <link>https://baoyuef.github.io/posts/blogtest/</link>
       <pubDate>Tue, 10 Jan 2023 20:40:37 +0800</pubDate>
       
-      <guid>https://www.baoyuef.cn/posts/blogtest/</guid>
+      <guid>https://baoyuef.github.io/posts/blogtest/</guid>
       <description>用林师傅留下的文章感谢林师傅帮我搭这个网站。</description>
     </item>
     
