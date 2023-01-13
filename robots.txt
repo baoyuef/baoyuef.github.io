@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://baoyuef.github.io/sitemap.xml
+Sitemap: https://www.baoyuef.cn/sitemap.xml
